@@ -1,0 +1,135 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "spartans-ssc-cgl-2026",
+      "name": "Spartans",
+      "byName": "Dedicated for SSC CGL Exams",
+      "language": "Recorded",
+      "previewImage": "assets/spartans-banner.jpg",
+      "type": "RECORDED",
+      "slug": "spartans-ssc-cgl-2026",
+      "subBatches": [
+        {
+          "name": "Calculation Nichod"
+        },
+        {
+          "name": "Percentage"
+        },
+        {
+          "name": "Ratio & Proportion"
+        },
+        {
+          "name": "Mixture & Replacement"
+        },
+        {
+          "name": "TWP"
+        },
+        {
+          "name": "Orientation Day"
+        },
+        {
+          "name": "Geometry"
+        },
+        {
+          "name": "Mensuration"
+        },
+        {
+          "name": "Average"
+        },
+        {
+          "name": "SI CI"
+        },
+        {
+          "name": "Partnership"
+        },
+        {
+          "name": "TSD"
+        },
+        {
+          "name": "Number System"
+        },
+        {
+          "name": "Coordinate Geometry"
+        },
+        {
+          "name": "Algebra"
+        },
+        {
+          "name": "PLD"
+        },
+        {
+          "name": "Trigonometry"
+        },
+        {
+          "name": "Surds & Simplification"
+        }
+      ]
+    },
+    {
+      "_id": "super-100-ssc",
+      "name": "Super 100",
+      "byName": "ssc exam",
+      "language": "Recorded",
+      "previewImage": "assets/super100-banner.jpg",
+      "type": "RECORDED",
+      "slug": "super-100-ssc",
+      "subBatches": [
+        {
+          "name": "Calculation Nichod"
+        },
+        {
+          "name": "Orientation Day"
+        },
+        {
+          "name": "Percentage"
+        },
+        {
+          "name": "Ratio & Proportion"
+        },
+        {
+          "name": "Mixture & Replacement"
+        },
+        {
+          "name": "Time Work Pipes"
+        },
+        {
+          "name": "Average"
+        },
+        {
+          "name": "Geometry"
+        },
+        {
+          "name": "Mensuration"
+        },
+        {
+          "name": "Partnership"
+        },
+        {
+          "name": "SI CI"
+        },
+        {
+          "name": "Number System"
+        },
+        {
+          "name": "Coordinate Geometry"
+        },
+        {
+          "name": "Algebra"
+        },
+        {
+          "name": "TSD"
+        },
+        {
+          "name": "PLD"
+        },
+        {
+          "name": "Trigonometry"
+        },
+        {
+          "name": "Surds & Simplification"
+        }
+      ]
+    }
+  ]
+}
